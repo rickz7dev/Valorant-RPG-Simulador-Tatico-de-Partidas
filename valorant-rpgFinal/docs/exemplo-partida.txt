@@ -1,0 +1,452 @@
+=== VALORANT RPG — SIMULAÇÃO AUTOMÁTICA ===
+
+--- Arsenal inicial ---
+1 - Classic | Preço: 0 | Dano: 22 | Pente: 8 | Precisão: 85%
+2 - Ghost | Preço: 500 | Dano: 25 | Pente: 8 | Precisão: 80%
+3 - Spectre | Preço: 1600 | Dano: 27 | Pente: 5 | Precisão: 75%
+4 - Vandal | Preço: 2900 | Dano: 40 | Pente: 4 | Precisão: 70%
+5 - Phantom | Preço: 2900 | Dano: 35 | Pente: 5 | Precisão: 75%
+6 - Operator | Preço: 4500 | Dano: 150 | Pente: 3 | Precisão: 60%
+
+--- Arsenal ordenado por preço ---
+1 - Classic | Preço: 0 | Dano: 22 | Pente: 8 | Precisão: 85%
+2 - Ghost | Preço: 500 | Dano: 25 | Pente: 8 | Precisão: 80%
+3 - Spectre | Preço: 1600 | Dano: 27 | Pente: 5 | Precisão: 75%
+4 - Vandal | Preço: 2900 | Dano: 40 | Pente: 4 | Precisão: 70%
+5 - Phantom | Preço: 2900 | Dano: 35 | Pente: 5 | Precisão: 75%
+6 - Operator | Preço: 4500 | Dano: 150 | Pente: 3 | Precisão: 60%
+
+--- Agentes ---
+1 - Sage | Velocidade: 3 | Habilidades: Orbe de Barreira, Orbe de Cura
+2 - Reyna | Velocidade: 8 | Habilidades: Poder Devastador, Devorar
+3 - Fenix | Velocidade: 7 | Habilidades: Queimar, Chama de Luz
+4 - Breach | Velocidade: 4 | Habilidades: Clarão, Pós-choque
+5 - Viper | Velocidade: 5 | Habilidades: Frasco de Veneno, Mordida de Cobra
+
+Jogador: Isac | Agente: Reyna
+
+===== RODADA 1 =====
+Seu Time 0 x 0 Time Adversário
+Compras:
+  Isac comprou Escudo Leve, Poder Devastador  (800 -> 250 créditos)
+  Aliado Sage comprou Escudo Leve, Orbe de Barreira  (800 -> 0 créditos)
+  Aliado Fenix comprou Escudo Leve, Queimar  (800 -> 200 créditos)
+  Aliado Breach comprou Escudo Leve, Clarão  (800 -> 150 créditos)
+  Aliado Viper comprou Escudo Leve, Frasco de Veneno, Mordida de Cobra  (800 -> 50 créditos)
+  Inimigo Sage comprou Escudo Leve, Orbe de Barreira  (800 -> 0 créditos)
+  Inimigo Reyna comprou Escudo Leve, Poder Devastador  (800 -> 250 créditos)
+  Inimigo Fenix comprou Escudo Leve, Queimar  (800 -> 200 créditos)
+  Inimigo Breach comprou Escudo Leve, Clarão  (800 -> 150 créditos)
+  Inimigo Viper comprou Escudo Leve, Frasco de Veneno, Mordida de Cobra  (800 -> 50 créditos)
+
+>>> DUELO: Reyna (Classic) x Sage (Classic)
+ Turno 1 | Você: vida 100 escudo 25 balas 8 | Inimigo: vida 100 escudo 25  -> ação: ATIRAR
+   Reyna acertou Sage e causou 50 de dano (TIRO NA CABEÇA!)
+   Sage usou Orbe de Barreira
+ Turno 2 | Você: vida 100 escudo 25 balas 7 | Inimigo: vida 75 escudo 40  -> ação: ATIRAR
+   Reyna acertou Sage e causou 50 de dano (TIRO NA CABEÇA!)
+   Sage errou o tiro
+ Turno 3 | Você: vida 100 escudo 25 balas 6 | Inimigo: vida 65 escudo 0  -> ação: HABILIDADE1
+   Reyna usou Poder Devastador
+   Sage acertou Reyna e causou 22 de dano
+ Turno 4 | Você: vida 100 escudo 3 balas 6 | Inimigo: vida 65 escudo 0  -> ação: ATIRAR
+   Sage errou o tiro
+   Reyna acertou Sage e causou 60 de dano (TIRO NA CABEÇA!)
+ Turno 5 | Você: vida 100 escudo 3 balas 5 | Inimigo: vida 5 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 26 de dano
+   Sage foi derrubado e não conseguiu agir
+ Você venceu o duelo!
+  Aliado Sage abateu Inimigo Reyna  [Aliados vivos: 5 | Inimigos vivos: 3]
+  Aliado Fenix abateu Inimigo Fenix  [Aliados vivos: 5 | Inimigos vivos: 2]
+  Aliado Breach abateu Inimigo Breach  [Aliados vivos: 5 | Inimigos vivos: 1]
+  Aliado Viper abateu Inimigo Viper  [Aliados vivos: 5 | Inimigos vivos: 0]
+
+Seu Time venceu a rodada!
+Seu Time 1 x 0 Time Adversário
+Seus créditos: 3450 | Abates na rodada: 1
+
+===== RODADA 2 =====
+Seu Time 1 x 0 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Spectre, Poder Devastador  (3450 -> 700 créditos)
+  Aliado Sage comprou Escudo Pesado e Spectre, Orbe de Barreira, Orbe de Cura  (3200 -> 0 créditos)
+  Aliado Fenix comprou Escudo Pesado e Spectre, Queimar, Chama de Luz  (3400 -> 350 créditos)
+  Aliado Breach comprou Escudo Pesado e Spectre, Clarão, Pós-choque  (3350 -> 300 créditos)
+  Aliado Viper comprou Escudo Pesado e Spectre, Frasco de Veneno, Mordida de Cobra  (3250 -> 300 créditos)
+  Inimigo Sage comprou Escudo Pesado e Ghost, Orbe de Barreira  (1900 -> 0 créditos)
+  Inimigo Reyna comprou Escudo Pesado e Ghost, Poder Devastador  (2150 -> 500 créditos)
+  Inimigo Fenix comprou Escudo Pesado e Ghost, Queimar, Chama de Luz  (2100 -> 150 créditos)
+  Inimigo Breach comprou Escudo Pesado e Ghost, Clarão, Pós-choque  (2050 -> 100 créditos)
+  Inimigo Viper comprou Escudo Pesado e Ghost, Frasco de Veneno, Mordida de Cobra  (1950 -> 100 créditos)
+
+>>> DUELO: Reyna (Spectre) x Sage (Ghost)
+ Turno 1 | Você: vida 100 escudo 50 balas 5 | Inimigo: vida 100 escudo 50  -> ação: HABILIDADE1
+   Sage acertou Reyna e causou 50 de dano (TIRO NA CABEÇA!)
+   Reyna usou Poder Devastador
+ Turno 2 | Você: vida 100 escudo 0 balas 5 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Reyna errou o tiro
+   Sage acertou Reyna e causou 25 de dano
+ Turno 3 | Você: vida 75 escudo 0 balas 4 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage acertou Reyna e causou 25 de dano
+   Reyna acertou Sage e causou 32 de dano
+ Turno 4 | Você: vida 50 escudo 0 balas 3 | Inimigo: vida 100 escudo 17  -> ação: ATIRAR
+   Reyna acertou Sage e causou 27 de dano
+   Sage acertou Reyna e causou 25 de dano
+ Turno 5 | Você: vida 25 escudo 0 balas 2 | Inimigo: vida 90 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 27 de dano
+   Sage acertou Reyna e causou 25 de dano
+ Você foi derrubado.
+  Aliado Sage abateu Inimigo Reyna  [Aliados vivos: 4 | Inimigos vivos: 4]
+  Inimigo Fenix abateu Aliado Fenix  [Aliados vivos: 3 | Inimigos vivos: 4]
+  Aliado Breach abateu Inimigo Breach  [Aliados vivos: 3 | Inimigos vivos: 3]
+  Aliado Viper abateu Inimigo Viper  [Aliados vivos: 3 | Inimigos vivos: 2]
+  Aliado Sage abateu Inimigo Sage  [Aliados vivos: 3 | Inimigos vivos: 1]
+  Aliado Breach abateu Inimigo Fenix  [Aliados vivos: 3 | Inimigos vivos: 0]
+
+Seu Time venceu a rodada!
+Seu Time 2 x 0 Time Adversário
+Seus créditos: 3700 | Abates na rodada: 0
+
+===== RODADA 3 =====
+Seu Time 2 x 0 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Spectre, Poder Devastador  (3700 -> 950 créditos)
+  Aliado Sage comprou Escudo Pesado, Orbe de Barreira  (3400 -> 2000 créditos)
+  Aliado Fenix comprou Escudo Pesado e Spectre, Queimar, Chama de Luz  (3350 -> 300 créditos)
+  Aliado Breach comprou Escudo Pesado, Clarão, Pós-choque  (3700 -> 2250 créditos)
+  Aliado Viper comprou Escudo Pesado  (3500 -> 2500 créditos)
+  Inimigo Sage comprou Escudo Pesado e Ghost, Orbe de Barreira, Orbe de Cura  (2100 -> 0 créditos)
+  Inimigo Reyna comprou Escudo Pesado e Ghost, Poder Devastador  (2400 -> 750 créditos)
+  Inimigo Fenix comprou Escudo Pesado e Ghost, Queimar, Chama de Luz  (2250 -> 300 créditos)
+  Inimigo Breach comprou Escudo Pesado e Ghost, Clarão, Pós-choque  (2000 -> 50 créditos)
+  Inimigo Viper comprou Escudo Pesado e Ghost, Frasco de Veneno, Mordida de Cobra  (2000 -> 150 créditos)
+
+>>> DUELO: Reyna (Spectre) x Sage (Ghost)
+ Turno 1 | Você: vida 100 escudo 50 balas 5 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Reyna acertou Sage e causou 27 de dano
+   Sage acertou Reyna e causou 25 de dano
+ Turno 2 | Você: vida 100 escudo 25 balas 4 | Inimigo: vida 100 escudo 23  -> ação: HABILIDADE1
+   Reyna usou Poder Devastador
+   Sage usou Orbe de Barreira
+ Turno 3 | Você: vida 100 escudo 25 balas 4 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Reyna acertou Sage e causou 32 de dano
+   Sage acertou Reyna e causou 25 de dano
+ Turno 4 | Você: vida 100 escudo 0 balas 3 | Inimigo: vida 100 escudo 17  -> ação: ATIRAR
+   Reyna acertou Sage e causou 32 de dano
+   Sage acertou Reyna e causou 25 de dano
+ Turno 5 | Você: vida 75 escudo 0 balas 2 | Inimigo: vida 85 escudo 0  -> ação: ATIRAR
+   Reyna errou o tiro
+   Sage acertou Reyna e causou 25 de dano
+ Turno 6 | Você: vida 50 escudo 0 balas 1 | Inimigo: vida 85 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 27 de dano
+   Sage acertou Reyna e causou 50 de dano (TIRO NA CABEÇA!)
+ Você foi derrubado.
+  Aliado Sage abateu Inimigo Reyna  [Aliados vivos: 4 | Inimigos vivos: 4]
+  Inimigo Fenix abateu Aliado Fenix  [Aliados vivos: 3 | Inimigos vivos: 4]
+  Inimigo Breach abateu Aliado Breach  [Aliados vivos: 2 | Inimigos vivos: 4]
+  Inimigo Viper abateu Aliado Viper  [Aliados vivos: 1 | Inimigos vivos: 4]
+  Aliado Sage abateu Inimigo Sage  [Aliados vivos: 1 | Inimigos vivos: 3]
+  Aliado Sage abateu Inimigo Fenix  [Aliados vivos: 1 | Inimigos vivos: 2]
+  Aliado Sage abateu Inimigo Breach  [Aliados vivos: 1 | Inimigos vivos: 1]
+  Inimigo Viper abateu Aliado Sage  [Aliados vivos: 0 | Inimigos vivos: 1]
+
+Time Adversário venceu a rodada!
+Seu Time 2 x 1 Time Adversário
+Seus créditos: 2850 | Abates na rodada: 0
+
+===== RODADA 4 =====
+Seu Time 2 x 1 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Spectre, Poder Devastador  (2850 -> 100 créditos)
+  Aliado Sage comprou Escudo Pesado e Vandal, Orbe de Barreira, Orbe de Cura  (4700 -> 200 créditos)
+  Aliado Fenix comprou Escudo Pesado e Ghost, Queimar, Chama de Luz  (2200 -> 250 créditos)
+  Aliado Breach comprou Escudo Pesado e Vandal, Clarão  (4150 -> 0 créditos)
+  Aliado Viper comprou Escudo Pesado e Vandal, Frasco de Veneno, Mordida de Cobra  (4400 -> 150 créditos)
+  Inimigo Sage comprou Escudo Pesado e Spectre, Orbe de Barreira, Orbe de Cura  (3200 -> 0 créditos)
+  Inimigo Reyna comprou Escudo Pesado e Spectre, Poder Devastador  (3750 -> 1000 créditos)
+  Inimigo Fenix comprou Escudo Pesado e Spectre, Queimar, Chama de Luz  (3500 -> 450 créditos)
+  Inimigo Breach comprou Escudo Pesado e Spectre, Clarão, Pós-choque  (3250 -> 200 créditos)
+  Inimigo Viper comprou Escudo Pesado e Spectre, Frasco de Veneno, Mordida de Cobra  (3550 -> 600 créditos)
+
+>>> DUELO: Reyna (Spectre) x Sage (Spectre)
+ Turno 1 | Você: vida 100 escudo 50 balas 5 | Inimigo: vida 100 escudo 50  -> ação: HABILIDADE1
+   Reyna usou Poder Devastador
+   Sage errou o tiro
+ Turno 2 | Você: vida 100 escudo 50 balas 5 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage acertou Reyna e causou 90 de dano (TIRO NA CABEÇA!)
+   Reyna acertou Sage e causou 32 de dano
+ Turno 3 | Você: vida 60 escudo 0 balas 4 | Inimigo: vida 100 escudo 17  -> ação: ATIRAR
+   Sage acertou Reyna e causou 27 de dano
+   Reyna acertou Sage e causou 32 de dano
+ Turno 4 | Você: vida 33 escudo 0 balas 3 | Inimigo: vida 85 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 27 de dano
+   Sage acertou Reyna e causou 90 de dano (TIRO NA CABEÇA!)
+ Você foi derrubado.
+  Inimigo Reyna abateu Aliado Sage  [Aliados vivos: 3 | Inimigos vivos: 5]
+  Inimigo Fenix abateu Aliado Fenix  [Aliados vivos: 2 | Inimigos vivos: 5]
+  Aliado Breach abateu Inimigo Breach  [Aliados vivos: 2 | Inimigos vivos: 4]
+  Aliado Viper abateu Inimigo Viper  [Aliados vivos: 2 | Inimigos vivos: 3]
+  Aliado Breach abateu Inimigo Sage  [Aliados vivos: 2 | Inimigos vivos: 2]
+  Inimigo Reyna abateu Aliado Viper  [Aliados vivos: 1 | Inimigos vivos: 2]
+  Inimigo Reyna abateu Aliado Breach  [Aliados vivos: 0 | Inimigos vivos: 2]
+
+Time Adversário venceu a rodada!
+Seu Time 2 x 2 Time Adversário
+Seus créditos: 2000 | Abates na rodada: 0
+
+===== RODADA 5 =====
+Seu Time 2 x 2 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Ghost, Poder Devastador  (2000 -> 350 créditos)
+  Aliado Sage comprou Escudo Pesado e Ghost, Orbe de Barreira, Orbe de Cura  (2100 -> 0 créditos)
+  Aliado Fenix comprou Escudo Pesado e Ghost, Queimar, Chama de Luz  (2150 -> 200 créditos)
+  Aliado Breach comprou Escudo Pesado e Ghost, Clarão, Pós-choque  (2300 -> 350 créditos)
+  Aliado Viper comprou Escudo Pesado e Ghost, Frasco de Veneno, Mordida de Cobra  (2250 -> 400 créditos)
+  Inimigo Sage comprou Escudo Pesado e Spectre, Orbe de Barreira, Orbe de Cura  (3200 -> 0 créditos)
+  Inimigo Reyna comprou Escudo Pesado e Vandal, Poder Devastador  (4600 -> 550 créditos)
+  Inimigo Fenix comprou Escudo Pesado, Queimar, Chama de Luz  (3650 -> 2200 créditos)
+  Inimigo Breach comprou Escudo Pesado e Spectre, Clarão, Pós-choque  (3200 -> 150 créditos)
+  Inimigo Viper comprou Escudo Pesado e Spectre, Frasco de Veneno, Mordida de Cobra  (3600 -> 650 créditos)
+
+>>> DUELO: Reyna (Ghost) x Sage (Spectre)
+ Turno 1 | Você: vida 100 escudo 50 balas 8 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage acertou Reyna e causou 27 de dano
+   Reyna errou o tiro
+ Turno 2 | Você: vida 100 escudo 23 balas 7 | Inimigo: vida 100 escudo 50  -> ação: HABILIDADE1
+   Sage acertou Reyna e causou 90 de dano (TIRO NA CABEÇA!)
+   Reyna usou Poder Devastador
+ Turno 3 | Você: vida 33 escudo 0 balas 7 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Reyna acertou Sage e causou 30 de dano
+   Sage acertou Reyna e causou 90 de dano (TIRO NA CABEÇA!)
+ Você foi derrubado.
+  Inimigo Reyna abateu Aliado Sage  [Aliados vivos: 3 | Inimigos vivos: 5]
+  Aliado Fenix abateu Inimigo Fenix  [Aliados vivos: 3 | Inimigos vivos: 4]
+  Inimigo Breach abateu Aliado Breach  [Aliados vivos: 2 | Inimigos vivos: 4]
+  Inimigo Viper abateu Aliado Viper  [Aliados vivos: 1 | Inimigos vivos: 4]
+  Inimigo Sage abateu Aliado Fenix  [Aliados vivos: 0 | Inimigos vivos: 4]
+
+Time Adversário venceu a rodada!
+Seu Time 2 x 3 Time Adversário
+Seus créditos: 2250 | Abates na rodada: 0
+
+===== RODADA 6 =====
+Seu Time 2 x 3 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Ghost, Poder Devastador  (2250 -> 600 créditos)
+  Aliado Sage comprou Escudo Pesado e Ghost, Orbe de Barreira  (1900 -> 0 créditos)
+  Aliado Fenix comprou Escudo Pesado e Ghost, Queimar, Chama de Luz  (2300 -> 350 créditos)
+  Aliado Breach comprou Escudo Pesado e Ghost, Clarão, Pós-choque  (2250 -> 300 créditos)
+  Aliado Viper comprou Escudo Pesado e Ghost, Frasco de Veneno, Mordida de Cobra  (2300 -> 450 créditos)
+  Inimigo Sage comprou Escudo Pesado, Orbe de Barreira  (3400 -> 2000 créditos)
+  Inimigo Reyna comprou Escudo Pesado  (3750 -> 2750 créditos)
+  Inimigo Fenix comprou Escudo Pesado e Vandal, Queimar, Chama de Luz  (5200 -> 850 créditos)
+  Inimigo Breach comprou Escudo Pesado  (3350 -> 2350 créditos)
+  Inimigo Viper comprou Escudo Pesado, Frasco de Veneno, Mordida de Cobra  (3850 -> 2500 créditos)
+
+>>> DUELO: Reyna (Ghost) x Sage (Spectre)
+ Turno 1 | Você: vida 100 escudo 50 balas 8 | Inimigo: vida 100 escudo 50  -> ação: HABILIDADE1
+   Sage errou o tiro
+   Reyna usou Poder Devastador
+ Turno 2 | Você: vida 100 escudo 50 balas 8 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage acertou Reyna e causou 90 de dano (TIRO NA CABEÇA!)
+   Reyna acertou Sage e causou 30 de dano
+ Turno 3 | Você: vida 60 escudo 0 balas 7 | Inimigo: vida 100 escudo 20  -> ação: ATIRAR
+   Sage errou o tiro
+   Reyna acertou Sage e causou 60 de dano (TIRO NA CABEÇA!)
+ Turno 4 | Você: vida 60 escudo 0 balas 6 | Inimigo: vida 60 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 25 de dano
+   Sage acertou Reyna e causou 27 de dano
+ Turno 5 | Você: vida 33 escudo 0 balas 5 | Inimigo: vida 35 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 25 de dano
+   Sage recarregou a sua arma
+ Turno 6 | Você: vida 33 escudo 0 balas 4 | Inimigo: vida 10 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 25 de dano
+   Sage foi derrubado e não conseguiu agir
+ Você venceu o duelo!
+  Aliado Sage abateu Inimigo Reyna  [Aliados vivos: 5 | Inimigos vivos: 3]
+  Inimigo Fenix abateu Aliado Fenix  [Aliados vivos: 4 | Inimigos vivos: 3]
+  Aliado Breach abateu Inimigo Breach  [Aliados vivos: 4 | Inimigos vivos: 2]
+  Aliado Viper abateu Inimigo Viper  [Aliados vivos: 4 | Inimigos vivos: 1]
+
+>>> DUELO: Reyna (Ghost) x Fenix (Vandal)
+ Turno 1 | Você: vida 63 escudo 0 balas 3 | Inimigo: vida 70 escudo 0  -> ação: ATIRAR
+   Reyna acertou Fenix e causou 50 de dano (TIRO NA CABEÇA!)
+   Fenix usou Chama de Luz
+ Turno 2 | Você: vida 63 escudo 0 balas 2 | Inimigo: vida 20 escudo 0  -> ação: ATIRAR
+   Reyna errou o tiro
+   Fenix acertou Reyna e causou 40 de dano
+ Turno 3 | Você: vida 23 escudo 0 balas 1 | Inimigo: vida 20 escudo 0  -> ação: ATIRAR
+   Reyna acertou Fenix e causou 25 de dano
+   Fenix foi derrubado e não conseguiu agir
+ Você venceu o duelo!
+
+Seu Time venceu a rodada!
+Seu Time 3 x 3 Time Adversário
+Seus créditos: 4000 | Abates na rodada: 2
+
+===== RODADA 7 =====
+Seu Time 3 x 3 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Vandal  (4000 -> 100 créditos)
+  Aliado Sage comprou Escudo Pesado e Spectre, Orbe de Cura  (3200 -> 400 créditos)
+  Aliado Fenix comprou Escudo Pesado e Spectre, Queimar, Chama de Luz  (3350 -> 300 créditos)
+  Aliado Breach comprou Escudo Pesado e Spectre, Clarão  (3500 -> 650 créditos)
+  Aliado Viper comprou Escudo Pesado e Spectre, Frasco de Veneno, Mordida de Cobra  (3650 -> 700 créditos)
+  Inimigo Sage comprou Escudo Pesado e Vandal  (3900 -> 0 créditos)
+  Inimigo Reyna comprou Escudo Pesado e Vandal, Poder Devastador  (4650 -> 600 créditos)
+  Inimigo Fenix comprou Escudo Pesado e Spectre, Queimar  (2950 -> 150 créditos)
+  Inimigo Breach comprou Escudo Pesado e Vandal, Clarão  (4250 -> 100 créditos)
+  Inimigo Viper comprou Escudo Pesado e Vandal, Frasco de Veneno, Mordida de Cobra  (4400 -> 150 créditos)
+
+>>> DUELO: Reyna (Vandal) x Sage (Vandal)
+ Turno 1 | Você: vida 100 escudo 50 balas 4 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage acertou Reyna e causou 40 de dano
+   Reyna acertou Sage e causou 40 de dano
+ Turno 2 | Você: vida 100 escudo 10 balas 3 | Inimigo: vida 100 escudo 10  -> ação: ATIRAR
+   Sage acertou Reyna e causou 40 de dano
+   Reyna acertou Sage e causou 40 de dano
+ Turno 3 | Você: vida 70 escudo 0 balas 2 | Inimigo: vida 70 escudo 0  -> ação: ATIRAR
+   Sage acertou Reyna e causou 40 de dano
+   Reyna errou o tiro
+ Turno 4 | Você: vida 30 escudo 0 balas 1 | Inimigo: vida 70 escudo 0  -> ação: ATIRAR
+   Sage acertou Reyna e causou 160 de dano (TIRO NA CABEÇA!)
+   Reyna foi derrubado e não conseguiu agir
+ Você foi derrubado.
+  Inimigo Reyna abateu Aliado Sage  [Aliados vivos: 3 | Inimigos vivos: 5]
+  Aliado Fenix abateu Inimigo Fenix  [Aliados vivos: 3 | Inimigos vivos: 4]
+  Inimigo Breach abateu Aliado Breach  [Aliados vivos: 2 | Inimigos vivos: 4]
+  Inimigo Viper abateu Aliado Viper  [Aliados vivos: 1 | Inimigos vivos: 4]
+  Inimigo Sage abateu Aliado Fenix  [Aliados vivos: 0 | Inimigos vivos: 4]
+
+Time Adversário venceu a rodada!
+Seu Time 3 x 4 Time Adversário
+Seus créditos: 2000 | Abates na rodada: 0
+
+===== RODADA 8 =====
+Seu Time 3 x 4 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Ghost, Poder Devastador  (2000 -> 350 créditos)
+  Aliado Sage comprou Escudo Pesado e Ghost, Orbe de Barreira, Orbe de Cura  (2300 -> 200 créditos)
+  Aliado Fenix comprou Escudo Pesado e Ghost, Queimar, Chama de Luz  (2400 -> 450 créditos)
+  Aliado Breach comprou Escudo Pesado e Ghost, Clarão, Pós-choque  (2550 -> 600 créditos)
+  Aliado Viper comprou Escudo Pesado e Spectre  (2600 -> 0 créditos)
+  Inimigo Sage comprou Escudo Pesado, Orbe de Barreira, Orbe de Cura  (3400 -> 1800 créditos)
+  Inimigo Reyna comprou Escudo Pesado, Poder Devastador  (3800 -> 2650 créditos)
+  Inimigo Fenix comprou Escudo Pesado e Spectre, Queimar, Chama de Luz  (3150 -> 100 créditos)
+  Inimigo Breach comprou Escudo Pesado, Clarão, Pós-choque  (3300 -> 1850 créditos)
+  Inimigo Viper comprou Escudo Pesado  (3350 -> 2350 créditos)
+
+>>> DUELO: Reyna (Ghost) x Sage (Vandal)
+ Turno 1 | Você: vida 100 escudo 50 balas 8 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage errou o tiro
+   Reyna errou o tiro
+ Turno 2 | Você: vida 100 escudo 50 balas 7 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Reyna acertou Sage e causou 50 de dano (TIRO NA CABEÇA!)
+   Sage acertou Reyna e causou 40 de dano
+ Turno 3 | Você: vida 100 escudo 10 balas 6 | Inimigo: vida 100 escudo 0  -> ação: ATIRAR
+   Reyna errou o tiro
+   Sage usou Orbe de Barreira
+ Turno 4 | Você: vida 100 escudo 10 balas 5 | Inimigo: vida 100 escudo 40  -> ação: HABILIDADE1
+   Reyna usou Poder Devastador
+   Sage acertou Reyna e causou 40 de dano
+ Turno 5 | Você: vida 70 escudo 0 balas 5 | Inimigo: vida 100 escudo 40  -> ação: ATIRAR
+   Sage recarregou a sua arma
+   Reyna acertou Sage e causou 30 de dano
+ Turno 6 | Você: vida 70 escudo 0 balas 4 | Inimigo: vida 100 escudo 10  -> ação: ATIRAR
+   Reyna acertou Sage e causou 60 de dano (TIRO NA CABEÇA!)
+   Sage acertou Reyna e causou 160 de dano (TIRO NA CABEÇA!)
+ Você foi derrubado.
+  Aliado Sage abateu Inimigo Reyna  [Aliados vivos: 4 | Inimigos vivos: 4]
+  Aliado Fenix abateu Inimigo Fenix  [Aliados vivos: 4 | Inimigos vivos: 3]
+  Aliado Breach abateu Inimigo Breach  [Aliados vivos: 4 | Inimigos vivos: 2]
+  Inimigo Viper abateu Aliado Viper  [Aliados vivos: 3 | Inimigos vivos: 2]
+  Inimigo Sage abateu Aliado Sage  [Aliados vivos: 2 | Inimigos vivos: 2]
+  Inimigo Viper abateu Aliado Fenix  [Aliados vivos: 1 | Inimigos vivos: 2]
+  Aliado Breach abateu Inimigo Sage  [Aliados vivos: 1 | Inimigos vivos: 1]
+  Aliado Breach abateu Inimigo Viper  [Aliados vivos: 1 | Inimigos vivos: 0]
+
+Seu Time venceu a rodada!
+Seu Time 4 x 4 Time Adversário
+Seus créditos: 3350 | Abates na rodada: 0
+
+===== RODADA 9 =====
+Seu Time 4 x 4 Time Adversário
+Compras:
+  Isac comprou Escudo Pesado e Spectre, Poder Devastador  (3350 -> 600 créditos)
+  Aliado Sage comprou Escudo Pesado e Spectre, Orbe de Barreira, Orbe de Cura  (3400 -> 200 créditos)
+  Aliado Fenix comprou Escudo Pesado e Spectre, Queimar, Chama de Luz  (3650 -> 600 créditos)
+  Aliado Breach comprou Escudo Pesado e Vandal, Clarão  (4200 -> 50 créditos)
+  Aliado Viper comprou Escudo Pesado e Spectre, Frasco de Veneno, Mordida de Cobra  (3000 -> 50 créditos)
+  Inimigo Sage comprou Escudo Pesado e Vandal, Orbe de Cura  (4100 -> 0 créditos)
+  Inimigo Reyna comprou Escudo Pesado e Vandal, Poder Devastador  (4550 -> 500 créditos)
+  Inimigo Fenix comprou Escudo Pesado e Ghost, Queimar, Chama de Luz  (2000 -> 50 créditos)
+  Inimigo Breach comprou Escudo Pesado e Spectre, Clarão, Pós-choque  (3750 -> 700 créditos)
+  Inimigo Viper comprou Escudo Pesado e Vandal, Frasco de Veneno, Mordida de Cobra  (4650 -> 400 créditos)
+
+>>> DUELO: Reyna (Spectre) x Sage (Vandal)
+ Turno 1 | Você: vida 100 escudo 50 balas 5 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage acertou Reyna e causou 40 de dano
+   Reyna errou o tiro
+ Turno 2 | Você: vida 100 escudo 10 balas 4 | Inimigo: vida 100 escudo 50  -> ação: ATIRAR
+   Sage errou o tiro
+   Reyna acertou Sage e causou 27 de dano
+ Turno 3 | Você: vida 100 escudo 10 balas 3 | Inimigo: vida 100 escudo 23  -> ação: ATIRAR
+   Sage errou o tiro
+   Reyna acertou Sage e causou 90 de dano (TIRO NA CABEÇA!)
+ Turno 4 | Você: vida 100 escudo 10 balas 2 | Inimigo: vida 33 escudo 0  -> ação: HABILIDADE1
+   Reyna usou Poder Devastador
+   Sage errou o tiro
+ Turno 5 | Você: vida 100 escudo 10 balas 2 | Inimigo: vida 33 escudo 0  -> ação: ATIRAR
+   Reyna acertou Sage e causou 32 de dano
+   Sage recarregou a sua arma
+ Turno 6 | Você: vida 100 escudo 10 balas 1 | Inimigo: vida 0 escudo 0  -> ação: ATIRAR
+   Sage errou o tiro
+   Reyna acertou Sage e causou 32 de dano
+ Você venceu o duelo!
+  Aliado Sage abateu Inimigo Reyna  [Aliados vivos: 5 | Inimigos vivos: 3]
+  Inimigo Fenix abateu Aliado Fenix  [Aliados vivos: 4 | Inimigos vivos: 3]
+  Aliado Breach abateu Inimigo Breach  [Aliados vivos: 4 | Inimigos vivos: 2]
+  Inimigo Viper abateu Aliado Viper  [Aliados vivos: 3 | Inimigos vivos: 2]
+
+>>> DUELO: Reyna (Spectre) x Fenix (Ghost)
+ Turno 1 | Você: vida 100 escudo 10 balas 0 | Inimigo: vida 66 escudo 0  -> ação: RECARREGAR
+   Reyna recarregou a sua arma
+   Fenix errou o tiro
+ Turno 2 | Você: vida 100 escudo 10 balas 5 | Inimigo: vida 66 escudo 0  -> ação: ATIRAR
+   Fenix acertou Reyna e causou 25 de dano
+   Reyna acertou Fenix e causou 27 de dano
+ Turno 3 | Você: vida 85 escudo 0 balas 4 | Inimigo: vida 39 escudo 0  -> ação: ATIRAR
+   Fenix acertou Reyna e causou 50 de dano (TIRO NA CABEÇA!)
+   Reyna acertou Fenix e causou 27 de dano
+ Turno 4 | Você: vida 35 escudo 0 balas 3 | Inimigo: vida 12 escudo 0  -> ação: ATIRAR
+   Fenix acertou Reyna e causou 25 de dano
+   Reyna acertou Fenix e causou 27 de dano
+ Você venceu o duelo!
+  Aliado Sage abateu Inimigo Viper  [Aliados vivos: 3 | Inimigos vivos: 0]
+
+Seu Time venceu a rodada!
+Seu Time 5 x 4 Time Adversário
+Seus créditos: 4000 | Abates na rodada: 2
+
+=== FIM DA PARTIDA ===
+Vencedor: Seu Time
+Seu Time 5 x 4 Time Adversário
+
+===== RELATÓRIO DA PARTIDA =====
+Total de abates: 63
+Média de abates por jogador: 6,30
+Maior abatedor: Aliado Sage (11)
+Menor abatedor: Inimigo Breach (3)
+Seu K/D: 0,83
+
+Ranking por abates:
+1 - Aliado Sage | Abates: 11 | Mortes: 5 | K/D: 2,20
+2 - Aliado Breach | Abates: 10 | Mortes: 4 | K/D: 2,50
+3 - Inimigo Sage | Abates: 9 | Mortes: 7 | K/D: 1,29
+4 - Inimigo Viper | Abates: 7 | Mortes: 6 | K/D: 1,17
+5 - Isac | Abates: 5 | Mortes: 6 | K/D: 0,83
+6 - Inimigo Reyna | Abates: 5 | Mortes: 6 | K/D: 0,83
+7 - Inimigo Fenix | Abates: 5 | Mortes: 8 | K/D: 0,63
+8 - Aliado Fenix | Abates: 4 | Mortes: 8 | K/D: 0,50
+9 - Aliado Viper | Abates: 4 | Mortes: 6 | K/D: 0,67
+10 - Inimigo Breach | Abates: 3 | Mortes: 7 | K/D: 0,43
