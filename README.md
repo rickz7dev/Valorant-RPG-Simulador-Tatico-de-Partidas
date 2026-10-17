@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33583810/README.md)
-# Valorant-RPG-Simulador-Tatico-de-Partidas# Valorant RPG — Simulador Tático de Partidas
+# Valorant RPG — Simulador Tático de Partidas
 
 Simulador em turnos de partidas de **Valorant** no terminal, feito em **Java** com Programação Orientada a Objetos. O sistema gerencia o arsenal de armas, os agentes e suas habilidades, a economia de créditos entre rodadas e os duelos 5x5, e gera um relatório de desempenho ao fim da partida.
 
